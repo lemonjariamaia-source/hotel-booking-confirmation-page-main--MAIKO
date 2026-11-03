@@ -170,6 +170,7 @@
         text-align: left;
         align-self: start;
         justify-self: end;
+        margin-top: auto;
       }
 
       .weather .label {
